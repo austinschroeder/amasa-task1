@@ -7,8 +7,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-this quickly starts a python server that will run the included files
 
 
-1.b) How you would minimize the errors?
+### 1.b) How you would minimize the errors?
 
-1.c) If you would need to eliminate a scripts explain why?
+### 1.c) If you would need to eliminate a scripts explain why?
 
-1.d) Please clone the following page:
+### 1.d) Please clone the following page:
