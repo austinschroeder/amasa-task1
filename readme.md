@@ -1,6 +1,6 @@
 ## Explain how you would copy/clone/ripp this page and make it work on your local environment
 
-<br><br>
+<br>
 
 ### 1.a) Explain your method?<br>
 
@@ -15,11 +15,11 @@
 ### 1.b) How you would minimize the errors?
 
 - Determine what errors are going to cause problems for loading the page, and what errors will be irrelevant.
-  <br>
+  
 - Determine origin of assets.
-  <br>
+  
 - Either download or reference a link to the assets using an absolute URL instead of a relative URL.
-  <br>
+  
 
 ---
 
@@ -32,6 +32,6 @@
 ### 1.d) Please clone the following page:
 
 - Clone and run repo locally to view ripped site
-  <br>
+  
 ![](https://i.imgur.com/lc1cZEB.png)
 
