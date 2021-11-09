@@ -18,9 +18,7 @@
 ### 1.b) How you would minimize the errors?
 
 - Determine what errors are going to cause problems for loading the page, and what errors will be irrelevant.
-  
 - Determine origin of assets.
-  
 - Either download or reference a link to the assets using an absolute URL instead of a relative URL.
   
 
@@ -29,7 +27,6 @@
 ### 1.c) If you would need to eliminate a scripts explain why?
 
 - Look into the scripts that are failing, and determine if they are necessary to run the site locally.
-
 - Delete GTM (google tag manager) script. It will inform owner of the site that you are running it locally. Not necessary to run the site locally.
 
 ### 1.d) Please clone the following page:
