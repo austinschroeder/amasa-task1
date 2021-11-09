@@ -1,3 +1,6 @@
+&copy;2021 Austin Schroeder
+<br>
+
 ## Explain how you would copy/clone/ripp this page and make it work on your local environment
 
 <br>
